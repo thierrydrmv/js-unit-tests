@@ -41,5 +41,12 @@ const productDetails = (firstProduct, secondProduct) => [
     },
   },
 ];
+// console.log(typeof productDetails());
+// console.log(productDetails('a', 'b'));
+let obj1 = productDetails('a', 'b')[0];
+let obj2 = productDetails('a', 'b')[1];
 
+console.log(obj1);
+console.log(obj2);
+console.log(productDetails());
 module.exports = productDetails;
