@@ -26,6 +26,4 @@ const createStudent = (nome) => {
   };
   createStudent('eu');
 
-  console.log(typeof createStudent('ola').feedback);
-
 module.exports = createStudent;
