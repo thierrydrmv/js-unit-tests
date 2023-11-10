@@ -6,13 +6,30 @@
 
 The project **Js Unit Tests** have several functions implemented to meet the proposed requirements and/or unit tests to ensure that the implementations of the functions are correct.
 
----
-
 ## 🚀 Build With
 
-> [![Javascript][Javascript]][Javascript-url]
+[![Javascript][Javascript]][Javascript-url]
 
----
+## 📌 Skills developed
+
+In this project, I was able to:
+
+- Write unit tests for functions using Jest to verify the correct functioning of these functions;
+- Based on tests already implemented, write functions so that they meet the proposed tests;
+- Write tests and functions using a test-driven development approach.
+  
+## ⬇️ Installing dependencies
+
+
+  ```bash
+  npm install
+  ``` 
+
+## 🧪 Running the tests
+
+  ```
+  npm test
+  ```
 
 ## 💬 Contact
 
